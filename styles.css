@@ -1,0 +1,55 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.select-arrow {
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="currentColor" d="M8.72 12.28a1 1 0 0 1-1.44 0L2.28 6.72a1 1 0 0 1 1.44-1.44L8 10.56l4.28-4.28a1 1 0 1 1 1.44 1.44l-5 5z"></path></svg>');
+    background-repeat: no-repeat;
+    background-position: right calc(1em + 0.1em) center;
+    background-size: calc(0.55em + 0.55em) calc(0.55em + 0.55em);
+    padding-right: 1.5em;
+}
+
+/* Additional styles can be added as needed */
+
+/* Example: Styling error messages */
+.text-danger {
+    color: #dc3545;
+    font-size: 0.875rem;
+    display: none; /* Hidden by default */
+    margin-top: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}

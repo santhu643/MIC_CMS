@@ -1,0 +1,1649 @@
+[11-Nov-2024 08:05:42 Europe/Berlin] Data fetching failed
+[11-Nov-2024 08:05:42 Europe/Berlin] Data fetching failed
+[11-Nov-2024 08:05:42 Europe/Berlin] Data fetching failed
+[11-Nov-2024 08:06:23 Europe/Berlin] Data fetching failed
+[11-Nov-2024 08:06:23 Europe/Berlin] Data fetching failed
+[11-Nov-2024 08:06:28 Europe/Berlin] PHP Warning:  Undefined variable $otype in C:\xampp\htdocs\mic\hodleave_back.php on line 487
+[11-Nov-2024 08:06:28 Europe/Berlin] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\mic\hodleave_back.php on line 487
+[11-Nov-2024 08:06:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\mic\hodleave_back.php on line 488
+[11-Nov-2024 08:06:28 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$ in C:\xampp\htdocs\mic\hodleave_back.php on line 489
+[11-Nov-2024 08:06:28 Europe/Berlin] PHP Warning:  Undefined variable $tdays in C:\xampp\htdocs\mic\hodleave_back.php on line 490
+[11-Nov-2024 08:06:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\mic\hodleave_back.php on line 498
+[11-Nov-2024 08:06:28 Europe/Berlin] Error occurred during approval: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= ? WHERE id = ?' at line 1
+[11-Nov-2024 12:39:06 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:39:06 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:39:10 Asia/Kolkata] PHP Warning:  Undefined variable $otype in C:\xampp\htdocs\mic\hodleave_back.php on line 488
+[11-Nov-2024 12:39:10 Asia/Kolkata] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\mic\hodleave_back.php on line 488
+[11-Nov-2024 12:39:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\mic\hodleave_back.php on line 489
+[11-Nov-2024 12:39:10 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$ in C:\xampp\htdocs\mic\hodleave_back.php on line 490
+[11-Nov-2024 12:39:10 Asia/Kolkata] PHP Warning:  Undefined variable $tdays in C:\xampp\htdocs\mic\hodleave_back.php on line 491
+[11-Nov-2024 12:39:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\mic\hodleave_back.php on line 499
+[11-Nov-2024 12:39:10 Asia/Kolkata] Error occurred during approval: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= ? WHERE id = ?' at line 1
+[11-Nov-2024 12:39:42 Asia/Kolkata] PHP Warning:  Undefined variable $otype in C:\xampp\htdocs\mic\hodleave_back.php on line 488
+[11-Nov-2024 12:39:42 Asia/Kolkata] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\mic\hodleave_back.php on line 488
+[11-Nov-2024 12:39:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\mic\hodleave_back.php on line 489
+[11-Nov-2024 12:39:42 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$ in C:\xampp\htdocs\mic\hodleave_back.php on line 490
+[11-Nov-2024 12:39:42 Asia/Kolkata] PHP Warning:  Undefined variable $tdays in C:\xampp\htdocs\mic\hodleave_back.php on line 491
+[11-Nov-2024 12:39:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\mic\hodleave_back.php on line 499
+[11-Nov-2024 12:39:42 Asia/Kolkata] Error occurred during approval: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= ? WHERE id = ?' at line 1
+[11-Nov-2024 12:40:37 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:40:37 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:40:40 Asia/Kolkata] 09-11-2024
+[11-Nov-2024 12:40:40 Asia/Kolkata] devicelogs_11_2024
+[11-Nov-2024 12:40:40 Asia/Kolkata] Data updated in target database for 09-11-2024
+[11-Nov-2024 12:40:40 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:41:20 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:41:20 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:41:22 Asia/Kolkata] 01-11-2024
+[11-Nov-2024 12:41:22 Asia/Kolkata] devicelogs_11_2024
+[11-Nov-2024 12:41:22 Asia/Kolkata] Data updated in target database for 01-11-2024
+[11-Nov-2024 12:41:22 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:49:57 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:49:58 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:49:58 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:55:05 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:55:05 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:55:05 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:59:40 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:59:40 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:59:40 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:59:51 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:59:51 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 12:59:51 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:03:56 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:03:57 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:03:57 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:04:05 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:04:05 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:04:05 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:04:41 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:04:41 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:04:41 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:04:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:23 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:23 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:23 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:06:52 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:07:38 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:07:38 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:07:38 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 13:07:38 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 14:42:03 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 14:42:03 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 14:42:03 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 14:42:03 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 14:59:57 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 14:59:57 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 14:59:57 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 14:59:57 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 14:59:57 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:01:04 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:01:04 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:01:04 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:01:05 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:01:19 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:01:19 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:01:19 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:01:19 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:02:35 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:02:35 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:02:35 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:02:35 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:05:29 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:05:29 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:05:29 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:05:29 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:12:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:12:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:12:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:12:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:28:29 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:28:29 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:28:29 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:28:29 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:28:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:28:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:28:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:28:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:29:34 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:29:34 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:29:34 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:29:34 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:31:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:31:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:31:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:31:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:32:32 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:32:32 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:32:32 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:32:32 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:33:25 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:33:25 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:33:25 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:33:25 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:33:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:33:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:33:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:33:54 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:46:16 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:46:16 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:46:16 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:46:16 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:56:03 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:56:03 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:56:03 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:56:03 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:56:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:56:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:56:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:56:45 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:57:39 Asia/Kolkata] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\mic\hodleave_back.php on line 695
+[11-Nov-2024 15:57:39 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in C:\xampp\htdocs\mic\hodleave_back.php on line 696
+[11-Nov-2024 15:57:46 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:57:46 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:57:46 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:57:46 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 15:57:56 Asia/Kolkata] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\mic\hodleave_back.php on line 695
+[11-Nov-2024 15:57:56 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in C:\xampp\htdocs\mic\hodleave_back.php on line 696
+[11-Nov-2024 16:00:10 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:00:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:00:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:00:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:00:15 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:02:58 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:02:58 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:02:58 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:02:58 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:02:58 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:03:07 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:03:07 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:03:07 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:03:07 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:03:44 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:03:44 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:03:44 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:03:44 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:04:00 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:04:00 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:04:00 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:04:00 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:04:30 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:04:30 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:04:30 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:04:30 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:05:33 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:05:33 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:05:33 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:05:33 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:06:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:06:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:06:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:06:11 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:07:19 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:07:19 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:07:19 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:07:20 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:37 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:37 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:37 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:37 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:39 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:51 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:51 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:51 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:51 Asia/Kolkata] Data fetching failed
+[11-Nov-2024 16:08:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 09:22:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 09:22:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 09:22:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 09:22:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 09:22:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:10 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:10 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:10 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:10 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:31:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:32:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:33:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:34:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:34:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:34:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:34:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:34:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:35:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:35:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:35:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:35:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:35:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:36:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:37:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:37:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:37:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:37:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:37:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:45 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:45 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:45 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:45 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:38:45 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:41:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:41:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:41:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:41:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:41:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:43:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:56 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:56 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:56 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:56 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:44:56 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:46:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:46:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:46:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:46:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:46:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:47:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:47:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:47:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:47:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:47:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:39 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:51:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:01 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:01 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:01 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:01 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:01 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:53:59 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:54:48 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:54:48 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:54:48 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:54:48 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:54:48 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:58:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:58:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:58:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:58:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:58:00 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:59:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:59:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:59:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:59:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 10:59:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:03:26 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:03:26 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:03:26 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:03:26 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:03:26 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:10:37 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:10:37 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:10:37 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:10:37 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:10:37 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:11:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:11:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:11:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:11:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:11:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:12:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:12:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:12:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:12:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:12:08 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:41:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:41:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:41:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:41:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:41:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:42:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:42:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:42:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:42:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:42:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:43:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:43:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:43:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:43:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:43:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:44:40 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:44:40 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:44:40 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:44:40 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:44:40 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:17 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:31 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:31 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:31 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:31 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:31 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:48:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:49:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:50:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:51:07 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:51:07 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:51:07 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:51:07 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:51:07 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:11 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:14 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:44 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:44 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:44 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:44 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:52:44 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:53:23 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:53:23 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:53:23 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:53:23 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:53:23 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:54:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:54:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:54:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:54:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:54:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:56:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:56:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:56:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:56:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:56:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:58:43 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:59:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:59:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:59:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:59:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 11:59:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:03:20 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:03:20 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:03:20 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:03:20 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:03:20 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:21:10 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:21:10 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:21:10 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:21:10 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:21:10 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:32:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:34:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:34:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:34:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:34:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:34:28 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:35:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:35:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:35:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:35:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:35:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:27 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:27 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:27 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:27 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:27 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:35 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:36:50 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:42:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:42:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:42:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:42:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:42:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:52:42 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:44 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:54:54 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:55:44 Asia/Kolkata] Error generating report: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'COUNT(*) as count 
+                    FROM devicelogs_10_2024 
+           ...' at line 1
+[12-Nov-2024 12:55:53 Asia/Kolkata] Error generating report: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'COUNT(*) as count 
+                    FROM devicelogs_10_2024 
+           ...' at line 1
+[12-Nov-2024 12:56:05 Asia/Kolkata] Error generating report: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'COUNT(*) as count 
+                    FROM devicelogs_10_2024 
+           ...' at line 1
+[12-Nov-2024 12:57:30 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:30 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:30 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:30 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 12:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mpu" in C:\xampp\htdocs\mic\hodleave_back.php on line 983
+[12-Nov-2024 13:32:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\mic\hodleave_back.php:1039
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\mic\hodleave_back.php on line 1039
+[12-Nov-2024 13:32:57 Asia/Kolkata] No data found for the selected month and year
+[12-Nov-2024 16:04:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:13 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:33 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:38 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:47 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:54 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:54 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:54 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:54 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:04:54 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:12 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:05:29 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:34 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:49 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:06:53 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:04 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:09 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:15 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:21 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:46 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:08:51 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:09:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:09:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:09:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:09:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:09:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:15:52 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:15:52 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:15:52 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:15:52 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:15:52 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:03 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:03 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:03 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:03 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:03 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:16:06 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:17:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:17:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:17:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:17:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:17:30 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:18:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:18:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:18:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:18:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:18:19 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:19:57 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:19:57 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:19:57 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:19:57 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:19:57 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:20:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:20:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:20:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:20:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:20:36 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:21:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:21:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:21:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:21:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:21:58 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:22:55 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:22:55 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:22:55 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:22:55 Asia/Kolkata] Data fetching failed
+[12-Nov-2024 16:22:55 Asia/Kolkata] Data fetching failed
+[21-Nov-2024 12:23:09 Asia/Kolkata] Data fetching failed
+[21-Nov-2024 12:23:09 Asia/Kolkata] Data fetching failed
+[21-Nov-2024 12:23:09 Asia/Kolkata] Data fetching failed
+[21-Nov-2024 12:23:09 Asia/Kolkata] Data fetching failed
+[21-Nov-2024 12:23:09 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 10:47:38 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 10:47:38 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 10:47:38 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 10:47:38 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 10:47:38 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 10:48:01 Asia/Kolkata] No data found for the selected month and year
+[16-Dec-2024 10:48:18 Asia/Kolkata] Error fetching attendance data: Table 'newbus.devicelogs_12_2024' doesn't exist
+[16-Dec-2024 10:48:24 Asia/Kolkata] Error fetching attendance data: Table 'newbus.devicelogs_11_2024' doesn't exist
+[16-Dec-2024 10:48:27 Asia/Kolkata] Error fetching attendance data: Table 'newbus.devicelogs_10_2024' doesn't exist
+[16-Dec-2024 10:48:33 Asia/Kolkata] Error fetching attendance data: Table 'newbus.devicelogs_10_2024' doesn't exist
+[16-Dec-2024 11:18:04 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:18:04 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:18:04 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:18:04 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:18:04 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:18:10 Asia/Kolkata] Error generating report: Table 'newbus.devicelogs_12_2024' doesn't exist
+[16-Dec-2024 11:18:16 Asia/Kolkata] Error generating report: Table 'newbus.devicelogs_12_2024' doesn't exist
+[16-Dec-2024 11:19:25 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:19:25 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:19:25 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:19:25 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:19:25 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:15 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:15 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:15 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:15 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:15 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:17 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:17 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:17 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:17 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 11:24:17 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 15:28:12 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 15:28:12 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 15:28:12 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 15:28:12 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 15:28:12 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:02:59 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:02:59 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:02:59 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:02:59 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:03:40 Asia/Kolkata] Data updated in target database for 2024-11-01
+[16-Dec-2024 17:03:40 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:28:30 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:28:30 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:28:30 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:28:30 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:29:44 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:29:44 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:29:44 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:29:44 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:29:51 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:29:51 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:29:52 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:29:52 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:31:36 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:31:36 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:31:36 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:31:36 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:32:15 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:32:15 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:32:15 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:32:15 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:33:21 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:33:21 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:33:21 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:33:21 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:34:33 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:34:33 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:34:33 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:34:33 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:36:27 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:36:27 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:36:27 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:36:27 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:37:07 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:37:07 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:37:07 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:37:07 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:42:07 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:42:07 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:42:07 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:42:07 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:43:22 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:43:22 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:43:22 Asia/Kolkata] Data fetching failed
+[16-Dec-2024 17:43:22 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:19:11 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:19:11 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:19:11 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:19:11 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:21:01 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:21:01 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:21:01 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:21:01 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:24:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:24:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:24:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:24:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:24:45 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:24:45 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:24:45 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:24:45 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:00 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:00 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:00 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:00 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:35 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:35 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:35 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:35 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:48 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:48 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:48 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:48 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:58 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:58 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:58 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:25:58 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:26:14 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:26:14 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:26:14 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:26:14 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:26:47 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:26:47 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:26:47 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:26:47 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:29:11 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:29:11 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:29:11 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:29:11 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:31:04 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:31:04 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:31:04 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:31:04 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:46:15 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:46:16 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:46:16 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:46:20 Asia/Kolkata] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\mic\hodleave_back.php on line 695
+[17-Dec-2024 09:46:20 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in C:\xampp\htdocs\mic\hodleave_back.php on line 696
+[17-Dec-2024 09:46:24 Asia/Kolkata] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\mic\hodleave_back.php on line 695
+[17-Dec-2024 09:46:24 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in C:\xampp\htdocs\mic\hodleave_back.php on line 696
+[17-Dec-2024 09:46:28 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:46:28 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:46:28 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:46:30 Asia/Kolkata] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\mic\hodleave_back.php on line 695
+[17-Dec-2024 09:46:30 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in C:\xampp\htdocs\mic\hodleave_back.php on line 696
+[17-Dec-2024 09:47:39 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:47:39 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:47:39 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:47:41 Asia/Kolkata] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\mic\hodleave_back.php on line 695
+[17-Dec-2024 09:47:41 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in C:\xampp\htdocs\mic\hodleave_back.php on line 696
+[17-Dec-2024 09:49:34 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:49:34 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:49:34 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:49:35 Asia/Kolkata] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\mic\hodleave_back.php on line 695
+[17-Dec-2024 09:49:35 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in C:\xampp\htdocs\mic\hodleave_back.php on line 696
+[17-Dec-2024 09:49:49 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:49:49 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:49:49 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:49:51 Asia/Kolkata] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\mic\hodleave_back.php on line 695
+[17-Dec-2024 09:49:51 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in C:\xampp\htdocs\mic\hodleave_back.php on line 696
+[17-Dec-2024 09:50:34 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:50:34 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:50:34 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:50:36 Asia/Kolkata] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\mic\hodleave_back.php on line 695
+[17-Dec-2024 09:50:36 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in C:\xampp\htdocs\mic\hodleave_back.php on line 696
+[17-Dec-2024 09:57:39 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:57:39 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:57:39 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:58:50 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:58:50 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:58:50 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:59:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:59:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:59:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:59:59 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:59:59 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 09:59:59 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:00:24 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:00:24 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:00:24 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:00:39 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:00:39 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:00:39 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:01:04 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:01:04 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:01:04 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:03:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:03:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:03:06 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:18:58 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:18:58 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:18:58 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:27:00 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:27:00 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:27:00 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:40:51 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:40:51 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:40:51 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:41:16 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:41:16 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 10:41:16 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 16:51:05 Asia/Kolkata] Data updated in target database for 2024-11-14
+[17-Dec-2024 17:02:33 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 17:56:33 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 17:56:33 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 17:56:33 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 17:56:33 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:01:22 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:01:22 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:01:22 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:01:22 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:07:51 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:07:51 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:07:51 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:07:51 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:08:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:08:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:08:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:08:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:09:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:09:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:09:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:09:18 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:09:25 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:09:25 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:09:25 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:09:25 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:10:23 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:10:23 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:10:23 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:10:23 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:12:32 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:12:32 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:12:32 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:12:32 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:13:53 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:13:53 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:13:53 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:13:53 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:15:01 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:15:01 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:15:01 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:15:01 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:17:05 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:17:05 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:17:05 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:17:05 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:17:14 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:17:14 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:17:14 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:17:14 Asia/Kolkata] Data fetching failed
+[17-Dec-2024 18:17:36 Asia/Kolkata] Data updated in target database for 2024-11-28
+[17-Dec-2024 18:17:36 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 12:29:55 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 12:29:55 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 12:29:55 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 12:29:55 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 12:29:55 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:31:49 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:31:49 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:31:49 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:31:49 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:31:49 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:32:00 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:32:00 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:32:00 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:32:00 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:32:00 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:55:37 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:55:37 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:55:37 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:55:37 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 18:55:37 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 19:18:14 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 19:18:14 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 19:18:14 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 19:18:14 Asia/Kolkata] Data fetching failed
+[18-Dec-2024 19:18:14 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:15:32 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:15:32 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:15:32 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:15:32 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:15:32 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:19:09 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:19:09 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:19:09 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:19:09 Asia/Kolkata] Data fetching failed
+[19-Dec-2024 18:19:32 Asia/Kolkata] Data updated in target database for 2024-12-07
+[19-Dec-2024 18:19:32 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:06:36 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:06:36 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:06:36 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:06:36 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:06:44 Asia/Kolkata] Data updated in target database for 2024-12-13
+[20-Dec-2024 12:06:44 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:51:43 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:51:43 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:51:43 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:51:43 Asia/Kolkata] Data fetching failed
+[20-Dec-2024 12:51:48 Asia/Kolkata] 17-12-2024
+[20-Dec-2024 12:51:48 Asia/Kolkata] devicelogs_12_2024
+[20-Dec-2024 12:51:48 Asia/Kolkata] Data updated in target database for 17-12-2024
+[20-Dec-2024 12:51:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:35:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:35:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:35:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:35:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:35:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:49:29 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:49:29 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:49:29 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:49:29 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:49:31 Asia/Kolkata] 12-12-2024
+[23-Dec-2024 08:49:31 Asia/Kolkata] devicelogs_12_2024
+[23-Dec-2024 08:49:31 Asia/Kolkata] Data updated in target database for 12-12-2024
+[23-Dec-2024 08:49:31 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:50:13 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:50:13 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:50:13 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:50:13 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 08:50:13 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:09:54 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:09:54 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:09:54 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:09:54 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:09:54 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:12:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:12:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:12:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:12:15 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:12:21 Asia/Kolkata] 04-12-2024
+[23-Dec-2024 09:12:21 Asia/Kolkata] devicelogs_12_2024
+[23-Dec-2024 09:12:21 Asia/Kolkata] Data updated in target database for 04-12-2024
+[23-Dec-2024 09:12:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:17:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:17:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:17:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:17:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:18:08 Asia/Kolkata] Data updated in target database for 2024-12-13
+[23-Dec-2024 09:18:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:43:32 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:43:32 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:43:32 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:43:32 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:43:33 Asia/Kolkata] Data updated in target database for 2024-12-13
+[23-Dec-2024 09:43:33 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:54:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:54:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:54:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:54:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:54:47 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:55:47 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:55:47 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:55:47 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:55:47 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:55:56 Asia/Kolkata] 10-12-2024
+[23-Dec-2024 09:55:56 Asia/Kolkata] devicelogs_12_2024
+[23-Dec-2024 09:55:56 Asia/Kolkata] Data updated in target database for 10-12-2024
+[23-Dec-2024 09:55:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:56:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:58:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:58:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:58:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:58:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 09:58:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:00:33 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:00:33 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:00:33 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:00:33 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:00:36 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 10:00:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:02:39 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:02:39 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:02:39 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:02:39 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:02:39 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:04:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:04:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:04:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:04:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:04:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:11:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:11:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:11:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:11:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:11:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:13:02 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:13:02 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:13:02 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:13:02 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:13:07 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 10:13:07 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:14:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:14:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:14:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:14:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:14:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:16:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:16:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:16:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:16:05 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:16:05 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:37:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:37:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:37:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:37:48 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 10:37:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 10:37:55 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 10:37:55 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:11:26 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:11:26 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:11:26 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:11:28 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 11:11:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:11:30 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 11:11:30 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:57:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:57:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:57:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:57:29 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 11:57:29 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:57:45 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 11:57:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:59:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:59:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:59:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 11:59:51 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 11:59:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:03:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:03:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:03:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:03:10 Asia/Kolkata] PHP Warning:  Undefined array key "lc2" in C:\xampp\htdocs\mic\hodleave_back.php on line 1192
+[23-Dec-2024 12:03:10 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 12:03:10 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:04:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:04:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:04:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:04:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:04:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:04:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:04:23 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:04:23 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:04:23 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:10:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:10:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:10:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:10:53 Asia/Kolkata] PHP Warning:  Undefined array key "lc2" in C:\xampp\htdocs\mic\hodleave_back.php on line 1192
+[23-Dec-2024 12:10:53 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 12:10:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:11:07 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:11:07 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:11:07 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:11:07 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:11:09 Asia/Kolkata] PHP Warning:  Undefined array key "lc2" in C:\xampp\htdocs\mic\hodleave_back.php on line 1192
+[23-Dec-2024 12:11:09 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 12:11:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:19:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:19:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:19:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:19:58 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 12:19:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:20:09 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 12:20:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:26:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:26:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:26:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:26:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:26:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:31:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:31:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:31:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:31:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:31:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:44:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:44:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:44:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:44:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:51:48 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 12:51:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:53:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:53:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:53:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:53:45 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:53:48 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 12:53:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:54:19 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:54:19 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:54:19 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:54:19 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 12:54:19 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:02:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:02:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:02:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:02:38 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 13:02:38 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:03:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:03:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:03:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:03:56 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:06:58 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 13:06:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:09:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:09:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:09:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:09:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:10:00 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 13:10:00 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:12:54 Asia/Kolkata] Error generating report: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'lc2 IN(0.5) OR mpu > 0)
+                GROUP BY status, lc, mpu' at line 4
+[23-Dec-2024 13:13:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:13:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:13:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:13:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 13:13:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:02:23 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:02:23 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:02:23 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:02:23 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:02:23 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:06:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:06:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:06:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:06:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:07:39 Asia/Kolkata] 02-12-2024
+[23-Dec-2024 15:07:39 Asia/Kolkata] devicelogs_12_2024
+[23-Dec-2024 15:07:39 Asia/Kolkata] Data updated in target database for 02-12-2024
+[23-Dec-2024 15:07:39 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:08:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:08:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:08:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:08:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:08:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:11:11 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:11:11 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:11:11 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:11:11 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:11:48 Asia/Kolkata] 03-12-2024
+[23-Dec-2024 15:11:48 Asia/Kolkata] devicelogs_12_2024
+[23-Dec-2024 15:11:48 Asia/Kolkata] Data updated in target database for 03-12-2024
+[23-Dec-2024 15:11:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:12:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:12:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:12:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:12:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:12:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:13:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:13:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:13:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:13:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:13:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:03 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:03 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:03 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:03 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:03 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:30 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:30 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:30 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:30 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:15:30 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:16:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:16:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:16:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:16:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:16:52 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:20:32 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:20:32 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:20:32 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:20:32 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:20:49 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 15:20:49 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:27:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:27:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:27:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:27:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:27:28 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:33:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:33:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:33:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:33:37 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:33:43 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 15:33:43 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:41 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:41 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:41 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:41 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:34:43 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 15:34:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in C:\xampp\htdocs\mic\hodleave_back.php:199
+Stack trace:
+#0 C:\xampp\htdocs\mic\hodleave_back.php(199): mysqli_stmt->close()
+#1 {main}
+  thrown in C:\xampp\htdocs\mic\hodleave_back.php on line 199
+[23-Dec-2024 15:34:43 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:35:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:35:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:35:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:35:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:35:50 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 15:35:50 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:41 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:41 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:41 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:41 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:41 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:50 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:50 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:50 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:50 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:36:50 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:41:40 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:41:40 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:41:40 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:41:40 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:41:44 Asia/Kolkata] 04-12-2024
+[23-Dec-2024 15:41:44 Asia/Kolkata] devicelogs_12_2024
+[23-Dec-2024 15:41:44 Asia/Kolkata] Data updated in target database for 04-12-2024
+[23-Dec-2024 15:41:44 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:04 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:24 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:42:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:44:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:44:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:44:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:44:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:44:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:58:15 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:58:15 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 15:58:15 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:05:33 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:05:33 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:05:33 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:05:36 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:15:38 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:15:38 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:15:38 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:15:38 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:15:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:16:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:16:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:16:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:16:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:16:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:17:05 Asia/Kolkata] Error generating report: Unknown column 'lc2' in 'field list'
+[23-Dec-2024 16:17:15 Asia/Kolkata] Error generating report: Table 'erp_attendance.devicelogs_12_2023' doesn't exist
+[23-Dec-2024 16:17:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:17:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:17:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:17:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:17:58 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:25 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:21:48 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:26:47 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:26:47 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:26:47 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:26:47 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:26:51 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:40:35 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:40:35 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:40:35 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:40:35 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:40:38 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 16:40:38 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:41:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:41:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:41:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:41:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:41:46 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:45:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:45:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:45:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:45:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:45:21 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:54:01 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:54:01 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:54:01 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:54:01 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:54:14 Asia/Kolkata] Data updated in target database for 2024-12-03
+[23-Dec-2024 16:54:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in C:\xampp\htdocs\mic\hodleave_back.php:199
+Stack trace:
+#0 C:\xampp\htdocs\mic\hodleave_back.php(199): mysqli_stmt->close()
+#1 {main}
+  thrown in C:\xampp\htdocs\mic\hodleave_back.php on line 199
+[23-Dec-2024 16:54:14 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:56:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:56:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:56:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:56:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:56:27 Asia/Kolkata] 23-12-2024
+[23-Dec-2024 16:56:27 Asia/Kolkata] devicelogs_12_2024
+[23-Dec-2024 16:56:27 Asia/Kolkata] Data updated in target database for 23-12-2024
+[23-Dec-2024 16:56:27 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:59:07 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:59:07 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:59:07 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:59:07 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 16:59:09 Asia/Kolkata] Data updated in target database for 2024-12-16
+[23-Dec-2024 16:59:09 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:05:15 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:05:15 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:05:15 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:05:15 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:05:18 Asia/Kolkata] 16-12-2024
+[23-Dec-2024 17:05:18 Asia/Kolkata] devicelogs_12_2024
+[23-Dec-2024 17:05:18 Asia/Kolkata] Data updated in target database for 16-12-2024
+[23-Dec-2024 17:05:18 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:07:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:07:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:07:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:07:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:07:53 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:08:31 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:08:31 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:08:31 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:08:31 Asia/Kolkata] Data fetching failed
+[23-Dec-2024 17:08:33 Asia/Kolkata] Data updated in target database for 2024-12-07
+[23-Dec-2024 17:08:33 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 09:46:05 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 09:46:05 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 09:46:05 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 09:46:05 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 09:46:05 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:16:17 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:16:17 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:16:17 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:16:17 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:18:13 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:18:13 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:18:13 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:18:13 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:20:25 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:20:25 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:20:25 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:20:25 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:21:44 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:21:44 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:21:44 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:21:44 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:25:03 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:25:03 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:25:03 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:25:03 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:26:05 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:26:05 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:26:05 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:26:05 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:26:27 Asia/Kolkata] Data updated in target database for 2024-12-24
+[24-Dec-2024 10:26:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in C:\xampp\htdocs\mic\hodleave_back.php:200
+Stack trace:
+#0 C:\xampp\htdocs\mic\hodleave_back.php(200): mysqli_stmt->close()
+#1 {main}
+  thrown in C:\xampp\htdocs\mic\hodleave_back.php on line 200
+[24-Dec-2024 10:26:27 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:28:58 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:28:58 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:28:58 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:28:58 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:29:29 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:29:29 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:29:29 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:29:29 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 10:29:38 Asia/Kolkata] Data updated in target database for 2024-12-24
+[24-Dec-2024 10:29:39 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:11 Asia/Kolkata] PHP Warning:  Attempt to read property "ddept" on null in C:\xampp\htdocs\mic\hodleave_back.php on line 16
+[24-Dec-2024 14:56:11 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:11 Asia/Kolkata] PHP Warning:  Attempt to read property "ddept" on null in C:\xampp\htdocs\mic\hodleave_back.php on line 225
+[24-Dec-2024 14:56:11 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:11 Asia/Kolkata] PHP Warning:  Attempt to read property "ddept" on null in C:\xampp\htdocs\mic\hodleave_back.php on line 383
+[24-Dec-2024 14:56:11 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:11 Asia/Kolkata] PHP Warning:  Attempt to read property "ddept" on null in C:\xampp\htdocs\mic\hodleave_back.php on line 62
+[24-Dec-2024 14:56:11 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:11 Asia/Kolkata] PHP Warning:  Attempt to read property "ddept" on null in C:\xampp\htdocs\mic\hodleave_back.php on line 653
+[24-Dec-2024 14:56:11 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:11 Asia/Kolkata] PHP Warning:  Attempt to read property "ddept" on null in C:\xampp\htdocs\mic\hodleave_back.php on line 534
+[24-Dec-2024 14:56:11 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:34 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:34 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:34 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:34 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 14:56:34 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 15:09:57 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 15:09:57 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 15:09:57 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 15:09:57 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 15:09:57 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:09:16 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:09:16 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:09:16 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:09:16 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:09:16 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:41:59 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:41:59 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:41:59 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:41:59 Asia/Kolkata] Data fetching failed
+[24-Dec-2024 17:41:59 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:00:59 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:00:59 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:00:59 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:00:59 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:00:59 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:06:02 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:06:02 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:06:02 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:06:02 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:06:02 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:37 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:37 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:37 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:37 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:37 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:44 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:44 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:44 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:44 Asia/Kolkata] Data fetching failed
+[26-Dec-2024 12:38:44 Asia/Kolkata] Data fetching failed

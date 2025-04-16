@@ -1,0 +1,143 @@
+/* datatable-styles.css */
+.datatable-container {
+    font-family: Arial, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.datatable-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.datatable-search {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 200px;
+}
+
+.datatable-entries {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.datatable {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.datatable th, .datatable td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+.datatable th {
+    background: linear-gradient(to bottom right, #4a90e2, #3372b6);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+}
+
+.datatable th:hover {
+    background: linear-gradient(to bottom right, #3372b6, #265a8f);
+}
+
+.sort-icon {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.sort-icon::before {
+    content: '\25B2';
+    position: absolute;
+    top: -8px;
+    right: 0;
+    font-size: 12px;
+    opacity: 0.3;
+}
+
+.sort-icon::after {
+    content: '\25BC';
+    position: absolute;
+    bottom: -8px;
+    right: 0;
+    font-size: 12px;
+    opacity: 0.3;
+}
+
+.sort-asc .sort-icon::before {
+    opacity: 1;
+}
+
+.sort-desc .sort-icon::after {
+    opacity: 1;
+}
+
+.datatable tr:nth-child(even) {
+    background-color: #f8f8f8;
+}
+
+.datatable tr:hover {
+    background-color: #f0f0f0;
+}
+
+.btn-sm {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+    transition: background-color 0.2s;
+}
+
+.btn-danger { background-color: #dc3545; color: white; }
+.btn-warning { background-color: #ffc107; color: black; }
+.btn-success { background-color: #28a745; color: white; }
+.btn-secondary { background-color: #6c757d; color: white; }
+
+.btn-sm:hover {
+    opacity: 0.9;
+}
+
+.datatable-pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.datatable-pagination button {
+    margin: 0 5px;
+    padding: 8px 12px;
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.datatable-pagination button:hover {
+    background-color: #3372b6;
+}
+
+.datatable-pagination button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.datatable-pagination span {
+    margin: 0 10px;
+    font-size: 14px;
+}

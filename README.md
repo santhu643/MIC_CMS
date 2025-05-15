@@ -8,8 +8,12 @@ The system is currently **live and operational** in our institution.
 
 ## 🚀 Live Project
 
-🔗 [Visit Live Site](https://your-live-url.com) *(update this with actual link)*  
-🎓 Deployed for: [Your College Name] – MIC Cell
+## 🔗 Visit Live Site
+```bash
+  https://
+
+---
+## 🎓 Deployed for: M Kumarasamy College of Engineering 
 
 ---
 

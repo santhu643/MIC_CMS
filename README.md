@@ -7,8 +7,7 @@ The system is currently **live and operational** in our institution.
 ---
 
 ## 🚀 Live Project
-## 🔗 Visit Live Site
-  https://mic.mkce.ac.in/
+**🔗 Visit Live Site**- https://mic.mkce.ac.in/
 
 ---
 ## 🎓 Deployed for: M Kumarasamy College of Engineering 

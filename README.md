@@ -53,16 +53,12 @@ The system is currently **live and operational** in our institution.
 
 ---
 
-## 🖼️ Screenshots (Optional)
+## 📬 Connect with Me
+🔗 LinkedIn - https://www.linkedin.com/in/santhiya-prakash-87449425a/
 
-> *(Insert a few key UI screenshots here if available)*
+💻 GitHub - https://github.com/santhu643
 
----
-
-## 📫 Contact
-
-Want to know more about this system or deploy it in your institution?  
-Connect with me on [LinkedIn](https://linkedin.com/in/yourname) or email me at [your.email@example.com].
+🧠 LeetCode - https://leetcode.com/u/santhiyaprakash/
 
 ---
 
